@@ -5,3 +5,5 @@ for x in range(20,40):
     
 hello from here
 khushiiii
+
+#devops lifecycle
